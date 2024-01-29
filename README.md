@@ -46,4 +46,24 @@ PowerBI have lots of different visualization tools to represent information into
 
 Reference: Popular Visualizations in Power BI | Microsoft Power BI for Beginners, Alex The Analyst, https://www.youtube.com/watch?v=3NV5Jtbhfcw&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=9
 
+## Final PowerBI Project
+Dataset is taken from link: https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx</br>
+Steps Followed:
+
+- CLeanning the data
+- Changing into correct data type
+- Removing the unnecessary information
+- Calculating the average salary from the given range of values in each field
+All the above steps are done using the power queries</br>
+
+Following visualization is created:
+
+- Treemap:  To represent the countries
+- Donut Chart: Shows the difficulty levell to break into the tech
+- Gauge: Shows how many are appy with their work/life balance and salary
+- Stacked Bar chart: Average salary by job title
+- Stacked column chart: Represents Favourite programming language</br></br>
+
+Reference: Full Power BI Guided Project | Microsoft Power BI for Beginners, Alex The Analyst, https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=9
+
 
