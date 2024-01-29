@@ -25,3 +25,10 @@ Reference: How to use Drill Down in Power BI | Microsoft Power BI for Beginners,
 Conditional formatting can be used to enhance the visualization, we can add more colours, different icon and different font in order to differentiate the values making it more comprehensible. </br></br>
 
 Reference: How to use Conditional Formatting in Power BI | Microsoft Power BI for Beginners, Alex The Analyst, https://www.youtube.com/watch?v=m0h3Ghl6mgY&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=7
+
+## Bins and List in PowerBI
+We can divide the coulumns into groups according to there distribution, this will be helpfull if someone want to know the categories of the particular columns. Grouping can be done in 2 ways:
+1. Bins: It can be done on number type or date type. Grouping accordin to the range of numbersand giving the range as size of bin. example we can group the months products, to check how many product sold in just January month
+2. List: It can be Performed on all type of data, we just group the data and give the title like selecting the order number from 12 to 25 and name the group as "First order". It works in the same way as an if else statement.</br></br>
+Reference: How to use Bins and Lists in Power BI | Microsoft Power BI for Beginners, Alex The Analyst, https://www.youtube.com/watch?v=9j_EBt3RNrs&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=7
+
