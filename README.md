@@ -21,3 +21,7 @@ Refrence: How to use DAX in Power BI | Microsoft Power BI for Beginners, Alex Th
 Drill down is used in visualization in PowerBI when we want to know more details about a the graph drawn, it is usefull to understand the data distribution in depth.</br></br>
 Reference: How to use Drill Down in Power BI | Microsoft Power BI for Beginners, Alex The Analyst, https://www.youtube.com/watch?v=ulFY20KTzFQ&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=5
 
+## Conditional Formatting in PowerBI
+Conditional formatting can be used to enhance the visualization, we can add more colours, different icon and different font in order to differentiate the values making it more comprehensible. </br></br>
+
+Reference: How to use Conditional Formatting in Power BI | Microsoft Power BI for Beginners, Alex The Analyst, https://www.youtube.com/watch?v=m0h3Ghl6mgY&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=7
