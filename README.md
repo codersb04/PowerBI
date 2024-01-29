@@ -32,3 +32,18 @@ We can divide the coulumns into groups according to there distribution, this wil
 2. List: It can be Performed on all type of data, we just group the data and give the title like selecting the order number from 12 to 25 and name the group as "First order". It works in the same way as an if else statement.</br></br>
 Reference: How to use Bins and Lists in Power BI | Microsoft Power BI for Beginners, Alex The Analyst, https://www.youtube.com/watch?v=9j_EBt3RNrs&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=7
 
+## Visualization Tools
+PowerBI have lots of different visualization tools to represent information into different forms. Graphs used here are:
+
+- Stacked bar chart
+- Donut Chart
+- 100% stacked column chart
+- Card
+- Line Chart
+- Line and clustered column chart
+- Table
+- Scattered Chart</br></br>
+
+Reference: Popular Visualizations in Power BI | Microsoft Power BI for Beginners, Alex The Analyst, https://www.youtube.com/watch?v=3NV5Jtbhfcw&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=9
+
+
