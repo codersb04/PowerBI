@@ -17,3 +17,7 @@ Examples:
 - Profit_column_sumx = SUMX('Apocolypse Sales', ('Apocolypse Store'[Price] - 'Apocolypse Store'[Production Cost])*'Apocolypse Sales'[Units Sold]) #SUMX will calculate the profit by each row</br></br>
 Refrence: How to use DAX in Power BI | Microsoft Power BI for Beginners, Alex The Analyst, https://www.youtube.com/watch?v=vcijg0gUXSg&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=5
 
+## Drill down in PowerBI
+Drill down is used in visualization in PowerBI when we want to know more details about a the graph drawn, it is usefull to understand the data distribution in depth.</br></br>
+Reference: How to use Drill Down in Power BI | Microsoft Power BI for Beginners, Alex The Analyst, https://www.youtube.com/watch?v=ulFY20KTzFQ&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=5
+
